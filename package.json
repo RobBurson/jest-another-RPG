@@ -1,0 +1,19 @@
+{
+  "name": "mod-10",
+  "version": "1.0.0",
+  "description": "Jest another RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobBurson/jest-another-RPG.git"
+  },
+  "author": "RobBurson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobBurson/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/RobBurson/jest-another-RPG#readme"
+}
